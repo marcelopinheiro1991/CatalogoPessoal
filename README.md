@@ -131,6 +131,6 @@ git clone https://github.com/SEU-USUARIO/CatalogoPessoal.git
 
 ---
 
-# 📖 Projeto Acadêmico: desenvolvido exclusivamente para fins educacionais na disciplina de Programação para Dispositivos Móveis.
+# 📖 Projeto Acadêmico
 
-Projeto desenvolvido exclusivamente para fins educacionais na disciplina de Programação para Dispositivos Móvei
+Projeto desenvolvido exclusivamente para fins educacionais na disciplina de Programação para Dispositivos Móveis.
